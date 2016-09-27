@@ -9,8 +9,8 @@ var foxpush_config =
   allow_text:'اشترك',
   deny_text:'لا . شكرا',
   allow_mobile:1,
-  allow_firefox:0,
-  allow_safari:0,
+  allow_firefox:1,
+  allow_safari:1,
   popup_style:'box',
   is_cache:'',
 };
