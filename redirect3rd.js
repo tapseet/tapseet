@@ -1,4 +1,4 @@
-<script type='text/javascript'>
+
 function openLink(){
     var myrandom=Math.round(Math.random()*28)
     var links=new Array()
@@ -34,4 +34,4 @@ function openLink(){
 
     window.location=links[myrandom]
 }
-</script>
+
