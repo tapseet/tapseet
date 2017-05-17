@@ -20,7 +20,7 @@ if (!pubid) { return; }
 var defaults = {
     advert_type: "int",
     pubfolder: null,
-    domain: "adf.ly",
+    domain: "3r-d2.blogspot.com",
     domains: null,
     exclude_domains: ["adf.ly", "ay.gy", "j.gs", "q.gs", "adult.xyz", "zo.ee"],
     popunder: false,
