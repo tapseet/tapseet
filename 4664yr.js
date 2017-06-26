@@ -1,8 +1,8 @@
 var foxpush_config =
 {
-  domain:'tapseet.com',
-  foxsubdomain:'tapseetcom',
-  icon:'https://foxpush.com/publisher/api/api_uploads/png/foxpush_9bc677927f.png',
+  domain:'twde7.com',
+  foxsubdomain:'twde7com',
+  icon:'http://4.bp.blogspot.com/-ti6p6VRxUD0/WT2T1M64XVI/AAAAAAAACR4/HILR_rnPwY0f9ftCVYdRKj6BSje_kIjzACK4B/s1600/%25D8%25A7titled-3.jpg',
   title:'اشترك في تنبيهات مدونه تبسيط',
   desc:'ليصلك جديد المدونه من المواضيع تلقائيا اضغط اشتراك (ِAllow) ',
   short_title:'التنبيهات',
